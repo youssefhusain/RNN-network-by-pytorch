@@ -8,7 +8,8 @@
 - **Modern alternatives** like:
   - **LSTMs** (Long Short-Term Memory)
   - **Transformers**
-  
+  ![DataCamp](img/1.png)
   are preferred today because they:
   - Use the **attention mechanism**
   - Assign **attention scores** to each token, allowing the model to focus on relevant parts of the input sequence regardless of distance.
+   ![DataCamp](img/2.png)
