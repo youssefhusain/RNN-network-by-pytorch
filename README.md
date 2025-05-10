@@ -1,5 +1,6 @@
 ## Recurrent Neural Networks (RNNs)
 
+
 - **RNNs** are *Recurrent Neural Networks*.
 - They are **sequential**, not parallel.
 - Commonly used in **text models**, since data is fed to them **step by step** (sequentially).
